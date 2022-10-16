@@ -13,15 +13,16 @@ h1 {
 
 section {
     border: 1px solid black;    
-    background-color: bisque;
+    background-color: gray;
     height: 150px;
     overflow: auto;
 }
 
+
 h2 {
     float: right;
     border:1px solid black;
-    color: lavender;
+    color: black;
     font-size: 125%;
     padding: 5px 20px 5px 20px;
     margin-top: 0;
@@ -42,7 +43,7 @@ ul {
 }
 
 #sushi {
-    background-color: forestgreen;
+    background-color: rgb(218, 218, 139);
 }
 
 
