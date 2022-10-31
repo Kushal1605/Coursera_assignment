@@ -1,2 +1,2 @@
 # Coursera_assignment
-Coursera peer-graded assignments repository.
+This repository contains solutions for coursera peer-graded assignments for front-end development.
